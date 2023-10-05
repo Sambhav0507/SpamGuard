@@ -25,8 +25,8 @@ To run the SpamGuard project, follow these steps:
    pip install -r requirements.txt
 3.Place your dataset in a file named spam.csv in the project directory.
 
-4. Open the Jupyter Notebook SpamGuard.ipynb and run the cells sequentially. This notebook contains the code for data preprocessing, model training, and spam detection.
+4.Open the Jupyter Notebook SpamGuard.ipynb and run the cells sequentially. This notebook contains the code for data preprocessing, model training, and spam detection.
 
-5. Follow the instructions in the notebook to train the model and test it with your messages.
-   ## Dataset
+5.Follow the instructions in the notebook to train the model and test it with your messages.
+## Dataset
 The dataset used for this project is provided in the spam.csv file. It contains labeled examples of both spam and non-spam (ham) messages. The dataset is divided into two columns: text (the message content) and label (0 for ham, 1 for spam).
