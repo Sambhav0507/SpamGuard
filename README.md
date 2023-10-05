@@ -21,8 +21,7 @@ To run the SpamGuard project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/SpamGuard.git
 2. Install the required Python packages using pip:
-   ```bash
-   pip install -r requirements.txt
+   
 3.Place your dataset in a file named spam.csv in the project directory.
 
 4.Open the Jupyter Notebook SpamGuard.ipynb and run the cells sequentially. This notebook contains the code for data preprocessing, model training, and spam detection.
