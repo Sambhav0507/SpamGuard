@@ -19,8 +19,8 @@ To run the SpamGuard project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/SpamGuard.git
-2. Install the required Python packages using pip:
+   git clone [repository-link]
+2. Install the required Python packages
    
 3.Place your dataset in a file named spam.csv in the project directory.
 
